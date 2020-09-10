@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 
-/*@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;0,900;1,300;1,400&display=swap');*/
-
 * {
     padding: 0;
     margin: 0;
@@ -206,7 +204,7 @@ nav ul a:hover {
 }
 
 #About {
-    background-image: url(/assets/background2.png);
+    background-image: url(./assets/background2.png);
     display: flex;
     flex-direction: column;
     justify-content: center;
